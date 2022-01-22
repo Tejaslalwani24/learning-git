@@ -1,8 +1,5 @@
 hi i am a txt file 
 i store text
 
-<<<<<<< HEAD
 hello hi
-=======
 what do you store ?
->>>>>>> func
