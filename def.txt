@@ -4,4 +4,4 @@ i store text
 hello hi
 what do you store ?
 
-I don't want to know
+I don't want to know.
